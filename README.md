@@ -23,7 +23,7 @@ Program
 Source code is available in the `code/led_blink.ino` file.
 
 Circuit Diagram
-circuit diagaram is available in the 'circuit/led_circuit.png' file.
+circuit diagaram is available in the 'circuit/led_circuit.png` file.
 
 Learning Outcome
 - Understanding digital output pins
