@@ -2,7 +2,7 @@
 // Author: Chaitali Patil
 // Board: Arduino Uno
 
-int ledPin = 13;
+int ledPin = 3;
 
 void setup() {
   pinMode(ledPin, OUTPUT);
